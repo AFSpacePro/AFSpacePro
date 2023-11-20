@@ -1,6 +1,7 @@
 <div id="header" align="center">
   <img src="Steven P. James.gif" width=full>
 </div>
+<h1> Aloha! Welcome to my ever-expanded supendously magnificent GitHub</h1>
 <div>
   <a href="https://www.linkedin.com/in/steven-p-james/">
     <img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-red?style=for-the-badge&logo=linkedin&labelColor=black">

@@ -1,4 +1,6 @@
-### Hi there 👋
+<div id="header" align="center">
+  <img src="Steven P. James.gif" width=full/>
+</div>
 
 <!--
 **AFSpacePro/AFSpacePro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
